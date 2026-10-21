@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\grkmo\\documents\\github\\cpp-ugv-telemetry-simulator\\src\\vehicle.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\grkmo\\documents\\github\\cpp-ugv-telemetry-simulator\\include\\vehicle.h",
+            "c:\\users\\grkmo\\documents\\github\\cpp-ugv-telemetry-simulator\\include\\batterysensor.h",
+            "c:\\users\\grkmo\\documents\\github\\cpp-ugv-telemetry-simulator\\include\\distancesensor.h",
+            "c:\\users\\grkmo\\documents\\github\\cpp-ugv-telemetry-simulator\\include\\temperaturesensor.h",
+            "c:\\users\\grkmo\\documents\\github\\cpp-ugv-telemetry-simulator\\include\\telemetrydata.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

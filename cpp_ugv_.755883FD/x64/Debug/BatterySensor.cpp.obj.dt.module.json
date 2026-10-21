@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "cpp_ugv_.755883FD\\x64\\Debug\\BatterySensor.obj",
+            "outputs": [
+                "cpp_ugv_.755883FD\\x64\\Debug\\BatterySensor.cpp.obj.dt.module.json",
+                "cpp_ugv_.755883FD\\x64\\Debug\\BatterySensor.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

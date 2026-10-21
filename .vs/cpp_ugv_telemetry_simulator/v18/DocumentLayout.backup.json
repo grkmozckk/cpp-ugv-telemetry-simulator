@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:src\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:include\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\TemperatureSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:src\\TemperatureSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\TemperatureSensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:include\\TemperatureSensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\DistanceSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:src\\DistanceSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\DistanceSensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:include\\DistanceSensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\BatterySensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:include\\BatterySensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\BatterySensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:src\\BatterySensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\TelemetryData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{755883FD-3DB8-07A5-0881-71CBF3C86E31}|cpp_ugv_telemetry_simulator.vcxproj|solutionrelative:include\\TelemetryData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cpp",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\Vehicle.cpp",
+              "RelativeDocumentMoniker": "src\\Vehicle.cpp",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\Vehicle.cpp",
+              "RelativeToolTip": "src\\Vehicle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T10:27:53.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.h",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\Vehicle.h",
+              "RelativeDocumentMoniker": "include\\Vehicle.h",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\Vehicle.h",
+              "RelativeToolTip": "include\\Vehicle.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-21T10:27:39.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemperatureSensor.cpp",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\TemperatureSensor.cpp",
+              "RelativeDocumentMoniker": "src\\TemperatureSensor.cpp",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\TemperatureSensor.cpp",
+              "RelativeToolTip": "src\\TemperatureSensor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T09:45:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemperatureSensor.h",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\TemperatureSensor.h",
+              "RelativeDocumentMoniker": "include\\TemperatureSensor.h",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\TemperatureSensor.h",
+              "RelativeToolTip": "include\\TemperatureSensor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-21T09:45:34.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DistanceSensor.cpp",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\DistanceSensor.cpp",
+              "RelativeDocumentMoniker": "src\\DistanceSensor.cpp",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\DistanceSensor.cpp",
+              "RelativeToolTip": "src\\DistanceSensor.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T09:41:41.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DistanceSensor.h",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\DistanceSensor.h",
+              "RelativeDocumentMoniker": "include\\DistanceSensor.h",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\DistanceSensor.h",
+              "RelativeToolTip": "include\\DistanceSensor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-21T09:41:21.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BatterySensor.cpp",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\BatterySensor.cpp",
+              "RelativeDocumentMoniker": "src\\BatterySensor.cpp",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\BatterySensor.cpp",
+              "RelativeToolTip": "src\\BatterySensor.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwBQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-20T15:35:30.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BatterySensor.h",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\BatterySensor.h",
+              "RelativeDocumentMoniker": "include\\BatterySensor.h",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\BatterySensor.h",
+              "RelativeToolTip": "include\\BatterySensor.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-20T15:35:09.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\src\\main.cpp*",
+              "RelativeToolTip": "src\\main.cpp*",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAgwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-20T14:39:50.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TelemetryData.h",
+              "DocumentMoniker": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\TelemetryData.h",
+              "RelativeDocumentMoniker": "include\\TelemetryData.h",
+              "ToolTip": "C:\\Users\\grkmo\\Documents\\GitHub\\cpp-ugv-telemetry-simulator\\include\\TelemetryData.h",
+              "RelativeToolTip": "include\\TelemetryData.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-20T14:52:07.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

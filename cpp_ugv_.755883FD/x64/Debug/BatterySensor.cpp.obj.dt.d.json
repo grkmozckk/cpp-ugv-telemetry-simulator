@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\grkmo\\documents\\github\\cpp-ugv-telemetry-simulator\\src\\batterysensor.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\grkmo\\documents\\github\\cpp-ugv-telemetry-simulator\\include\\batterysensor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
